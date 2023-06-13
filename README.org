@@ -1,0 +1,10 @@
+* package-renaming
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/frideau/package-renaming.git   |
+| commit  |   |
+| systems | package-renaming |
+|---------+-------------------------------------------|
+
